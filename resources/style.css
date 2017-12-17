@@ -12,6 +12,9 @@ header {
   align-items: center;
   flex-wrap: wrap;
   width: 100%;
+  border-bottom: 1px solid seashell;
+  position; fixed;
+  z-index: 1;
 }
 .logo {
   display: flex;
