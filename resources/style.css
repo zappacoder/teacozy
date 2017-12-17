@@ -43,5 +43,13 @@ nav a {
 }
 
 .main-box {
+  display: flex;
   height: 700px;
+  background: url("resources/images/mission-background.jpg") no-repeat;
+}
+
+.our_mission {
+  width: 1200px;
+  height: 90px;
+  align-items: center;
 }
