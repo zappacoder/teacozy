@@ -10,10 +10,11 @@ html, body {
 .header {
   display: flex;
   flex-grow: 1;
+  align-items: center;
 }
 .logo {
-
-	display: flex;
+  display: flex;
+  flex-grow: 1;
 	align-items: center;
 }
 
@@ -28,4 +29,5 @@ nav p {
 
 nav a {
   text-decoration: underline;
+  color: seashell;
 }
