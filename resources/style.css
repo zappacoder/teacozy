@@ -41,3 +41,7 @@ nav a {
   text-decoration: underline;
   color: seashell;
 }
+
+.main-box {
+  height: 700px;
+}
