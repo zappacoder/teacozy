@@ -45,11 +45,11 @@ nav a {
 .main-box {
   display: flex;
   height: 700px;
-  background-image: url("images/mission-background.jpg");
+  background-image: url("images/mission-background.jpg") no-repeat;
+  align-items: center;
 }
 
-/*.our_mission {
+.our_mission {
   width: 1200px;
   height: 90px;
-  align-items: center;
-}*/
+}
