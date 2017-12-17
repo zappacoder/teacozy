@@ -45,7 +45,8 @@ nav a {
 .main-box {
   display: flex;
   height: 700px;
-  background-image: url("images/mission-background.jpg") no-repeat;
+  background-image: url("images/mission-background.jpg");
+  background-repeat:no-repeat;
   align-items: center;
 }
 
