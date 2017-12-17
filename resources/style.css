@@ -45,7 +45,7 @@ nav a {
 .main-box {
   display: flex;
   height: 700px;
-  background: url("resources/images/mission-background.jpg") no-repeat;
+  background-image: url("resources/images/mission-background.jpg");
 }
 
 .our_mission {
