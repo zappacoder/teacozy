@@ -6,3 +6,26 @@ html, body {
   opacity: .9;
   text-align: center;
 }
+
+.header {
+  display: flex;
+  flex-grow: 1;
+}
+.logo {
+
+	display: flex;
+	align-items: center;
+}
+
+.logo img {
+  height: 50px;
+  margin-left: 10px;
+}
+
+nav p {
+  display: inline-block;
+}
+
+nav a {
+  text-decoration: underline;
+}
