@@ -42,12 +42,19 @@ nav a {
   color: seashell;
 }
 
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .main-box {
   display: flex;
   height: 700px;
   background-image: url("images/mission-background.jpg");
   background-repeat:no-repeat;
   align-items: center;
+  justify-content: center;
 }
 
 .our_mission {
