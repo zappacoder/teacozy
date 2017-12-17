@@ -23,6 +23,10 @@ html, body {
   margin-left: 10px;
 }
 
+nav {
+  display: inline;
+}
+
 nav p {
   display: inline-block;
 }
