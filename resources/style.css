@@ -122,6 +122,14 @@ nav a {
   height: 200px;
 }
 
+footer {
+  margin-left: 20px;
+}
+
+footer p {
+  text-align: left;
+}
+
 /*.flex-container {
   display: flex;
   justify-content: center;
