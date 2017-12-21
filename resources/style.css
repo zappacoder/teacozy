@@ -66,3 +66,163 @@ nav a {
   align-content: center;
   flex-direction: column;
 }
+
+.tea_month {
+  width: 100%;
+  /*display: flex;*/
+  /*border: 2px solid red;*/
+}
+
+.image_content {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+ /* width: 1000px;*/
+}
+
+.tea {
+  height: 200px;
+  width: 300px;
+  padding: 10px;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 1100px;
+}
+#locations {
+  flex-basis: 280px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+  margin: 5px 20px;
+  opacity: 1.0;
+  background-color: black;
+  background-image: url("images/locations-background.jpg");
+}
+
+.location {
+  flex-basis: 280px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+  margin: 5px 20px;
+  opacity: 1.0;
+  background-color: black;
+}
+
+/*.flex-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+ margin: auto;
+  width: 1100px;
+}
+.location {
+  flex-basis: 280px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+  margin: 5px 20px;
+  opacity: 1.0;
+  background-color: black;
+}*/
+
+/*.location-header {
+  background-image: url("images/locations-background.jpg");
+  background-repeat: no-repeat;
+  display: flex;
+  height: 500px;
+  justify-content: center;
+  width: 1200px;
+  margin: 0 auto;
+}*/
+
+/*.location {
+  background-color: black;
+  height: 300px;
+  color: white;
+  width: 300px;
+  margin: 15px 40px;
+  margin: auto;
+  flex-basis: 280px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+}*/
+
+/*.locations.Oakdale {
+  background-color: black;
+  height: 300px;
+  opacity: .5;
+}*/
+
+/*.location-info {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}*/
+
+
+
+/*Begin correct location code from advisor*/
+
+/*.locations {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
+  display: flex;
+  height: 500px;
+  width: 1200px;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  justify-content: center;
+}
+.location_header {
+  align-self: flex-start;
+}
+.downtown {
+  width: 300px;
+  background-color: black;
+  color: white;
+  height: 300px;
+  display: inline-block;
+  align-self: center;
+}*/
+
+/*begin some of my old location code*/
+
+/*.location_header {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg");
+  display: flex;
+  height: 500px;
+  width: 1200px;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  justify-content: center;
+}*/
+
+/*.location-header {
+  width: 300px;
+  background-color: black;
+  color: white;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/*.locations {
+  width: 300px;
+  background-color: black;
+  color: white;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}*/
