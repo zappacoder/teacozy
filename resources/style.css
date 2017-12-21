@@ -104,6 +104,7 @@ nav a {
   background-color: black;
   background-image: url("images/locations-background.jpg");
   background-repeat: no-repeat;
+  height: 500px;
 }
 
 .location {
